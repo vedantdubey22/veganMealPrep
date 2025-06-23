@@ -1,0 +1,35 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Orange -->
+  <circle cx="100" cy="100" r="40" fill="#FF9F40"/>
+  <path d="M100 70C85 70 75 85 75 100C75 115 85 130 100 130C115 130 125 115 125 100C125 85 115 70 100 70Z" fill="#FF8C1A"/>
+  
+  <!-- Apple -->
+  <circle cx="250" cy="100" r="35" fill="#FF5B5B"/>
+  <path d="M250 75C240 75 230 85 230 95C230 105 240 115 250 115C260 115 270 105 270 95C270 85 260 75 250 75Z" fill="#E74C3C"/>
+  <path d="M265 85L275 75" stroke="#2ECC71" stroke-width="4"/>
+  
+  <!-- Guava -->
+  <circle cx="400" cy="100" r="35" fill="#A5D6A7"/>
+  <circle cx="400" cy="100" r="25" fill="#81C784"/>
+  
+  <!-- Pomegranate -->
+  <circle cx="550" cy="100" r="40" fill="#E57373"/>
+  <circle cx="550" cy="100" r="30" fill="#EF5350"/>
+  <circle cx="550" cy="100" r="20" fill="#F44336"/>
+  
+  <!-- Grapes -->
+  <g transform="translate(650,100)">
+    <circle cx="0" cy="0" r="15" fill="#9B59B6"/>
+    <circle cx="25" cy="-10" r="15" fill="#8E44AD"/>
+    <circle cx="25" cy="15" r="15" fill="#9B59B6"/>
+    <circle cx="50" cy="0" r="15" fill="#8E44AD"/>
+    <circle cx="50" cy="25" r="15" fill="#9B59B6"/>
+  </g>
+  
+  <!-- Leaves and stems -->
+  <path d="M100 40C80 40 70 50 70 60C70 70 80 80 100 80" fill="#2ECC71"/>
+  <path d="M250 40C230 40 220 50 220 60C220 70 230 80 250 80" fill="#27AE60"/>
+  <path d="M400 40C380 40 370 50 370 60C370 70 380 80 400 80" fill="#2ECC71"/>
+  <path d="M550 40C530 40 520 50 520 60C520 70 530 80 550 80" fill="#27AE60"/>
+  <path d="M650 40C630 40 620 50 620 60C620 70 630 80 650 80" fill="#2ECC71"/>
+</svg> 
