@@ -1,13 +1,9 @@
 package com.veganmealprep.model;
 
 import lombok.Data;
-import org.springframework.data.annotation.Id;
-import org.springframework.data.mongodb.core.mapping.Document;
 
 @Data
-@Document(collection = "user_requirements")
 public class UserRequirements {
-    @Id
     private String id;
     private String gender;
     private int age;

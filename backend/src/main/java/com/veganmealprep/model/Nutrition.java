@@ -1,10 +1,8 @@
 package com.veganmealprep.model;
 
 import lombok.Data;
-import org.springframework.data.mongodb.core.mapping.Document;
 
 @Data
-@Document(collection = "nutrition")
 public class Nutrition {
     private double calories;
     private double protein;
