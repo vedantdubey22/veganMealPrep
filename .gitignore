@@ -1,3 +1,5 @@
 # Sensitive backend secrets
 backend/src/main/resources/firebase-service-account.json
-backend/src/main/resources/application.properties 
+backend/src/main/resources/application.properties
+node_modules/
+**/node_modules/ 
